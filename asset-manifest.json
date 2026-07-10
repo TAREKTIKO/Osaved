@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Osaved/static/css/main.b52765a8.css",
+    "main.js": "/Osaved/static/js/main.3b1126b3.js",
+    "index.html": "/Osaved/index.html",
+    "main.b52765a8.css.map": "/Osaved/static/css/main.b52765a8.css.map",
+    "main.3b1126b3.js.map": "/Osaved/static/js/main.3b1126b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52765a8.css",
+    "static/js/main.3b1126b3.js"
+  ]
+}
